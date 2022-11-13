@@ -1,6 +1,6 @@
 # OldPythonEnviroments
 
-This is a slightly out of date version of the real[ PythonEnvironments Repo](https://github.com/Embarcadero/PythonEnviroments) that will compile fine under Delphi 10.4.x
+This is a slightly out of date version of the real[ PythonEnvironments Repo](https://github.com/Embarcadero/PythonEnviroments) that will compile fine under Delphi 10.4.x - it has a few known problems (with Android) and uses older versions of Python. This is provides as a stop-gap measure for people who want to play with the Python for Delphi Suite while we address the non-10.4.x issue
 
 Components to simplify the deployment for Python environments for Delphi applications using [Python4Delphi](https://github.com/Embarcadero/Python4Delphi).
 
